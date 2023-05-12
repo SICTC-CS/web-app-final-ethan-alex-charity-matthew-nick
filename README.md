@@ -3,7 +3,9 @@
 ## How to install and setup the product on RPi
 
 <ol>
-  <li></li>
+  <li>Download setup folder to device</li>
+  <li>Add admin information</li>
+  <li>Add employee information through the admin account</li>
 </ol>
 
 ## How to log in and generate the reports
