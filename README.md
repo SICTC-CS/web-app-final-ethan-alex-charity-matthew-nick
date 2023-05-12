@@ -8,7 +8,7 @@
 
 ## How to log in and generate the reports
 
-
+<p>Admin will view login screen and input corrent information into textboxes to login. A screen will then be avalible to view by department, search, or view all reports. App will display reports based on requested information</p>
 
 ## ID badge
 
