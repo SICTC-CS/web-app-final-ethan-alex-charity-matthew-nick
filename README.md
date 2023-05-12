@@ -16,4 +16,4 @@
 
 ## ERD for database
 
-<img scr="img/database.png">
+<img scr="">
