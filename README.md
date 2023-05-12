@@ -21,3 +21,6 @@
 #### Employee and Department
 <img src="https://github.com/SICTC-CS/web-app-final-ethan-alex-charity-matthew-nick/blob/main/img/database.png" height="400px">
 <img src="https://github.com/SICTC-CS/web-app-final-ethan-alex-charity-matthew-nick/blob/main/img/databse%203.png" height="400px">
+
+#### Admin
+<img src="https://github.com/SICTC-CS/web-app-final-ethan-alex-charity-matthew-nick/blob/main/img/image%20(1).png" height="300">
